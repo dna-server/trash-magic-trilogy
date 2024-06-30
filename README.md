@@ -31,10 +31,10 @@ Everything we make should be easy to use and copy. The copying instructions them
 
 -------------------------------------
 
-Your first quest is to replicate the Trash Magic Trilogy and upload it to archive.org and github.com, as well as any other online or offline databases or hosting pages you use. You can download these books by clicking <a href="#">HERE</a>. Please use the tags TRASH MAGIC, SELF-REPLICATING GEOMETRY, and UPCYCLING when you do so.
+Your first quest is to replicate the Trash Magic Trilogy and upload it to archive.org and github.com, as well as any other online or offline databases or hosting pages you use. You can download these books by clicking <a href="https://github.com/dna-server/trash-magic-trilogy/archive/refs/heads/main.zip">HERE</a>. Please use the tags TRASH MAGIC, SELF-REPLICATING GEOMETRY, and UPCYCLING when you do so.
 
     
-Your second quest is to create your own set of online documents just like this one, which can be accessed by anyone online at https://[your_username].github.io. You can replicate any blueprint(s) from this system or the entire system by clicking <a href="#">HERE</a>. Then, upload the set of blueprints to your github profile under a repository called [your_username]. Upload a copy also to archive.org, etc.
+Your second quest is to create your own set of online documents just like this one, which can be accessed by anyone online at https://[your_username].github.io. You can replicate any blueprint(s) from this system or the entire system by clicking <a href="https://github.com/dna-server/dna-server.github.io/archive/refs/heads/main.zip">HERE</a>. Then, upload the set of blueprints to your github profile under a repository called [your_username]. Upload a copy also to archive.org, etc.
 
     
 Your third quest is to make physical hyperlinks (called hyperseeds) by writing your github.io url on cardboard or other waste items, along with the words TRASH MAGIC, a drawing of a golden pentagram or unicursal hexagram, and a QR code which also points to your url. Then give these to others or leave them to be found. Make them beautiful. All Trash Magic is art!
